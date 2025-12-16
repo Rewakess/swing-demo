@@ -28,3 +28,7 @@ dependencies {
     // 'test.useTestNG()' to your build script.
     testImplementation  'junit:junit:4.11'
 }
+
+launch4j {
+    mainClassName = 'SwingDemo'
+}
